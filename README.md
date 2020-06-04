@@ -1,6 +1,6 @@
 # Project
 Copyright © 2020 Andrew Rotert. All rights reserved.
-#### Minesweeper
+#### Grip Finder
 Windows Form Application. Based off of the putter fitting project, its objective is to find a golf grip for a user. The algorithms are written to be more generic, and uses more object oriented concepts. 
 
 - [ ] Published
