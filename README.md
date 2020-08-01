@@ -13,3 +13,9 @@ Working at a golf store, a coworker noticed a lot of cutomers that were not fami
 
 # Tech
 Built using Object-Oriented Design and C#.
+
+
+# Preview
+Grip Finder                 |  Desktop App
+:-------------------------:|:-------------------------:
+![alt text 1](https://github.com/ajrotert/Grip-Finder/blob/master/GripFinder.gif?raw=true)  |   Windows Only
